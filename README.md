@@ -1,4 +1,4 @@
-# Sales Report and Finance report for AtliQ hardware 
+# Sales Report and Finance report for AtliQ hardware (P&L)
 Sales Report:
 1. create customer performance report
 2. create market performance vs sales target
